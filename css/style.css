@@ -10,17 +10,21 @@ body {
 .service-background {
   padding: 5rem 0;
   z-index: 1000 !important;
-  
 }
 
 #contact {
   z-index: 1000;
 }
+.navbar-light {
+  background-color: white !important;
+}
+.c {
+  position: relative;
+  width: 100%;
 
-
+}
 
 /*============= FOOTER =============*/
-
 
 /*===== FIXED BACKGROUND IMG =====*/
 .fixed {
@@ -60,13 +64,10 @@ body {
 }
 /* Devices under 992px (lg) */
 @media (max-width: 992px) {
-  
 }
 /* Devices under 768px (md) */
 @media (max-width: 768px) {
-  
 }
 /* Devices under 576px (sm) */
 @media (max-width: 576px) {
-  
 }
